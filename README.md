@@ -6,6 +6,7 @@ Light absorption data from finger-worn pulse oximeter is relayed to necklace dev
 
 ![image](https://user-images.githubusercontent.com/47039448/138573077-57ea8b9f-8cfb-4d67-b0d6-b0e58cd31f1a.png)
 ![image](https://user-images.githubusercontent.com/47039448/138573093-8f88a64a-9b9b-4765-aba1-5917bc73f3a4.png)
+  
 CAD Models designed by Sam Bello  
 
 *Calibration*  
